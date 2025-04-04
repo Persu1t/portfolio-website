@@ -18,7 +18,7 @@ const Homepage = () => {
         <p className="md:text-xl">I am specialize in providing custom web and software solutions tailored to your needs. Whether you&apos;re looking for a high-performance web application, an AI-powered platform, or a seamless e-commerce experience, I deliver cutting-edge solutions that drive growth. With expertise in React, Next.js, Firebase, and modern backend technologies, I build scalable, secure, and user-friendly digital products. My goal is to help businesses streamline operations, enhance customer engagement, and stay ahead in the digital era. Let&apos;s bring your vision to life with technology that works for you!</p>
         {/* Buttons */}
         <div className="flex gap-4 w-full">
-          <Link href="/Rishabh-resume.pdf" target= "_blank" alt="my-cv" rel="noopener noreferrer"><button className="p-4 rounded-md ring-1 ring-black bg-black text-white">My Resume</button></Link>
+          <Link href="/Rishabh_Shukla_-_Frontend_Developer.pdf" target= "_blank" alt="my-cv" rel="noopener noreferrer"><button className="p-4 rounded-md ring-1 ring-black bg-black text-white">My Resume</button></Link>
           <Link href="/contact"><button className="p-4 rounded-md ring-1 ring-black ">Contact Me</button></Link>
         </div>
       </div>
