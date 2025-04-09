@@ -92,10 +92,10 @@ const Navbar = () => {
 
       {/* Responsive menu button */}
       <div className="md:hidden">
-        <button className="w-10 h-8 flex flex-col justify-between z-50 relative" onClick={() => setIsOpen(!isOpen)}>
-          <motion.div variants={topVarients} animate={isOpen ? "opened" : "closed"} className="w-10 h-1 bg-black rounded origin-left"></motion.div>
-          <motion.div variants={centerVariants} animate={isOpen ? "opened" : "closed"} className="w-10 h-1 bg-black rounded"></motion.div>
-          <motion.div variants = {lowerVariant} animate={isOpen ? "opened" : "closed"} className="w-10 h-1 bg-black rounded origin-left"></motion.div>
+        <button className="w-10 h-[22px] flex flex-col justify-between z-50 relative" onClick={() => setIsOpen(!isOpen)}>
+          <motion.div variants={topVarients} animate={isOpen ? "opened" : "closed"} className="w-[24px] h-1 bg-black rounded origin-left"></motion.div>
+          <motion.div variants={centerVariants} animate={isOpen ? "opened" : "closed"} className="w-[24px] h-1 bg-black rounded"></motion.div>
+          <motion.div variants = {lowerVariant} animate={isOpen ? "opened" : "closed"} className="w-[24px] h-1 bg-black rounded origin-left"></motion.div>
         </button>
         {/* Menue list */}
         {isOpen && (

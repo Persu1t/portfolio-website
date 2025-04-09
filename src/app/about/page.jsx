@@ -95,40 +95,40 @@ const AboutPage = () => {
               animate={isSkillRefInView ? { x: 0 } : {}}
               className="flex gap-4 flex-wrap"
             >
-              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
+              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-stone-400 hover:text-black">
                 JavaScript
               </div>
-              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
+              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-stone-400 hover:text-black">
                 TypeScript
               </div>
-              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
+              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-stone-400 hover:text-black">
                 React.js
               </div>
-              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
+              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-stone-400 hover:text-black">
                 Next.js
               </div>
-              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
+              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-stone-400 hover:text-black">
                 Tailwind CSS
               </div>
-              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
+              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-stone-400 hover:text-black">
                 Node.js
               </div>
-              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
+              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-stone-400 hover:text-black">
                 Redux
               </div>
-              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
+              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-stone-400 hover:text-black">
                 Framer Motion
               </div>
-              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
-                Webpack
+              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-stone-400 hover:text-black">
+                Shadcn UI
               </div>
-              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
+              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-stone-400 hover:text-black">
                 Vite
               </div>
-              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
+              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-stone-400 hover:text-black">
                 Firebase
               </div>
-              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-white hover:text-black">
+              <div className="rounded  p-2 text-sm cursor-pointer bg-black text-white hover:bg-stone-400 hover:text-black">
                 Git
               </div>
 
@@ -226,7 +226,7 @@ const AboutPage = () => {
                   {/* JOB DESC */}
                   <div className="p-3 text-sm italic">
                     I spearheaded React-based application development,
-                   for student. Took more than 450+ doubts
+                   for student. Took more than 550 doubts
                   </div>
                   {/* JOB DATE */}
                   <div className="p-3 text-red-400 text-sm font-semibold">
@@ -249,7 +249,7 @@ const AboutPage = () => {
                   {/* JOB DESC */}
                   <div className="p-3 text-sm italic">
                   I spearheaded React-based application development,
-                  for student. Took more than 1000+ doubts. Assesed more than 130+ projects.
+                  for student. Took more than 900 doubts.
                   </div>
                   {/* JOB DATE */}
                   <div className="p-3 text-red-400 text-sm font-semibold">
