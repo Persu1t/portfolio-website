@@ -25,15 +25,6 @@ const items = [
   },
   {
     id: 3,
-    color: "from-violet-300 to-purple-300",
-    title: "Cookpad",
-    desc: 'The "Cookpad" is a web application that allows users to explore and discover a wide variety of food recipes.',
-    img: "/meals-app.png",
-    link: "https://lama.dev",
-    code: "https://github.com/Persu1t/Meal-App"
-  },
-  {
-    id: 4,
     color: "from-purple-300 to-red-300",
     title: "Habit-tracker App",
     desc: "This app helps you to build a new habait. You can create your new habait, delete and update your habit status for next seven days. ",
